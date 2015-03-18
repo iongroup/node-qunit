@@ -41,8 +41,7 @@
     "co": "^3.0.6",
     "qunitjs": "1.17.1",
     "tracejs": "^0.1.8",
-    "underscore": "^1.6.0",
-    "util": "^0.10.3"
+    "underscore": "^1.6.0"
   },
   "devDependencies": {
     "chainer": "^0.0.5",
